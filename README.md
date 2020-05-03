@@ -1,4 +1,4 @@
-# Youtube Search Parse/Crawler/Scraper - Vim Script/Plugin
+# Youtube Search Parser/Crawler/Scraper - Vim Script/Plugin
 This plugin runs on any file that contains the html of a youtube search page. It finds the titles and links to the videos (from the YouTube search HTML) and deletes everything else in the file. You are left with a list of all the video titles and URLs from your search.
 
 Setup:
